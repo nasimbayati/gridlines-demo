@@ -19,7 +19,7 @@ python -c "import gridlines_demo as g; g.plot_gridlines_demo(save_png=True)"
 ```
 This will create **gridlines_demo.png** in the project folder.
 
-## 📷 Output (add after you save one)
+## 📷 Output
 ```markdown
 ![Gridlines Demo](gridlines_demo.png)
 ```
@@ -31,3 +31,4 @@ This will create **gridlines_demo.png** in the project folder.
 
 ## License
 MIT — feel free to use and adapt.
+
