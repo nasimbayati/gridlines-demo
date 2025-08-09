@@ -21,7 +21,7 @@ This will create **gridlines_demo.png** in the project folder.
 
 ## 📷 Output
 ```markdown
-![Gridlines Demo](gridlines_demo.png)
+![gridlines_demo](gridlines_demo.png)
 ```
 
 ## Requirements
@@ -31,4 +31,5 @@ This will create **gridlines_demo.png** in the project folder.
 
 ## License
 MIT — feel free to use and adapt.
+
 
